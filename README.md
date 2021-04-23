@@ -1,2 +1,0 @@
-# tareaspe
-Realización de tareas
